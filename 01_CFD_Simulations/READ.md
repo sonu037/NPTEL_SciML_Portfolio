@@ -59,4 +59,4 @@ To replace "Black Box" commercial software dependence with a First-Principles un
 
 ### 👤 Author
 **Suhail Majeed Sheikh** | *Mechanical Engineer & AI Researcher*
-*NIT Srinagar '24*
+*NIT Srinagar '2024*
